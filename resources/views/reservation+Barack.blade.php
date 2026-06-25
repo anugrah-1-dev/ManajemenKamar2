@@ -747,7 +747,7 @@
 		<div class="footer-container">
 			<!-- Kolom 1 -->
 			<div class="footer-column">
-				<img src="https://biepluskampunginggris.com/frontend/images/logo/logo_1.png" alt="Logo" class="footer-logo">
+				<img src="{{ asset('assets/images/logo.png') }}" alt="Logo" class="footer-logo">
 				<p class="footer-text" style="margin-left: -60px;">Bareng ratusan temen sebaya dari kota-kota beda, nikmatin vibe seru belajar bahasa Inggris yang enggak biasa!</p>
 			</div>
 	
